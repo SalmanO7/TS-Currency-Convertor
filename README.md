@@ -3,8 +3,6 @@
 ## Features
 Supports conversion between multiple currencies.
 
-Fetches real-time exchange rates from an API.
-
 Simple and easy-to-use command-line interface.
 
 
